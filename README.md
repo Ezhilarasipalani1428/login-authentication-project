@@ -33,7 +33,7 @@ A stunning, modern login page with glassmorphic design, animated gradient backgr
 
 ## 📁 Project Structure
 ```
-login-project/
+login-authentication-project/
 ├── index.html          # Frontend login page
 ├── server.js           # Backend Express server
 └── README.md           # Project documentation
@@ -51,7 +51,7 @@ login-project/
 
 2. **Navigate to project directory**
 ```bash
-   cd login-project
+   cd login-authentication-project
 ```
 
 3. **Install dependencies**
@@ -177,7 +177,7 @@ animation: gradientShift 2.5s ease infinite;
 
 ## 📸 Screenshots
 
-![Login Page](screenshot.png) *(Add your screenshot here)*
+![Login Page](preview-screenshot.png)
 
 ## 🚀 Future Enhancements
 
@@ -196,8 +196,7 @@ This project is open source and available for personal and educational use.
 
 ## 👨‍💻 Author
 
-Created with 💚 by [Your Name]
+Created with 💚 by [Ezhilarasi P]
 
----
 
 ⭐ If you like this project, give it a star!
